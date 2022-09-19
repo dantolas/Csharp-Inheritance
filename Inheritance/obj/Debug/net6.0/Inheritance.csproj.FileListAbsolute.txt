@@ -1,0 +1,15 @@
+M:\PV-C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+M:\PV-C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+M:\PV-C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+M:\PV-C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+M:\PV-C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+M:\PV-C#\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
